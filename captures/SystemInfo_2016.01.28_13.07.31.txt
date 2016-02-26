@@ -1,0 +1,2 @@
+Bad activity command, or no activities match: com.nordicsemi.nrfUARTv2
+Use -h for help.
